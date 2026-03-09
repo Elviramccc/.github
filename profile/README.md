@@ -1,4 +1,4 @@
-## ElviraMC — Infrastructure Technique (🔐 Accès Restreint)
+## ElviraMC — Infrastructure Technique
 
 Bienvenue sur l'espace de développement privé de ElviraMC. Cette organisation centralise l'ensemble du code source, des scripts et des configurations nécessaires au bon fonctionnement de notre réseau.
 
